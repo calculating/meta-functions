@@ -12,4 +12,4 @@ The transformer model is trained to fill in masked portions of these synthetic f
 
 ![transfer to linear functions](linear_transfer.png "linear")
 
-I was able to roughly replicate the claim in the paper of general in-context modling of basic functions.
+I was able to roughly replicate the claim in the paper of general in-context modeling of basic functions.
